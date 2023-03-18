@@ -12,24 +12,6 @@ lastmod: 2023-03-18T11:15:05+03:00
 featured: false
 draft: false
 
-# Featured image
-# Place and image named 'featured.gpg/png' in this page's folder and customize its options here.
-image:
-  caption: ""
-  focal_point: ""
-  placement:
-  preview_only: false
-  
-authors:
- - admin
-
-tags:
- - Academic 
- 
- categories:
- 
- - Demo
-
 ---
 # Определение CI/CD
 Непрерывная интеграция — это методология разработки и набор практик, при которых в код вносятся небольшие изменения с частыми коммитами. И поскольку большинство современных приложений разрабатываются с использованием различных платформ и инструментов, то появляется необходимость в механизме интеграции и тестировании вносимых изменений.

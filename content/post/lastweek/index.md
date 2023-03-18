@@ -12,25 +12,6 @@ lastmod: 2023-03-18T10:46:24+03:00
 featured: false
 draft: false
 
-# Featured image
-# Place and image named 'featured.gpg/png' in this page's folder and customize its options here.
-image:
-  caption: ""
-  focal_point: ""
-  placement:
-  preview_only: false
-  
-authors:
- - admin
-
-tags:
- - Academic 
- 
- categories:
- 
- - Demo
-
-
 ---
 
 # Немного о моей неделе
