@@ -46,7 +46,16 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/sakirilyuk
-
+  - icon: mendeley
+    icon_pack: fas
+    link: https://www.mendeley.com/settings/account/
+  - icon: ORCID
+    icon_pack: fas
+    link: https://orcid.org/my-orcid?orcid=0009-0007-7379-6854
+  - icon: ResearchGate
+    icon_pack: fas
+    link: https://www.researchgate.net/signup.SignUpPublications.html
+    
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
@@ -54,3 +63,4 @@ email: ''
 highlight_name: true
 ---
 Привет, меня зовут Света Кирилюк, я родилась в маленьком городе Владимирской области с названием Гусь-Хрустальный. Я закончила МБОУ СОШ №2 г. Гусь-Хрустальный и теперь обучаюсь в РУДН на направлении математика и механика. 
+
