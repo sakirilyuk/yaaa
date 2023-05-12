@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Империализм
+summary: Какие оценки даны в исторической литературе репрессивной политике советского государства в 1920-30е годы?
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2023-05-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -29,13 +29,20 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+- Введение
+В общем значении понятия репрессии (от лат. repressio – стеснение, подавление) – это система карательных санкций, применяемых властями для уменьшения, или ликвидации угрозы существующему государственному строю и общественному порядку. Угроза может выражаться как в открытых действиях и выступлениях, так и в скрытой оппозиции противников режима.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+- Положительная оценка
+В защиту политической деятельности Сталина учёные приводят следующие доводы (из работы Асланбека Хажумаровича Шогенова, доктора технических наук, профессора):
+Во-первых, во все времена (ещё задолго до казни Иисуса Христа по доносу Иуды Искарио́та) во всех странах мира проводились репрессии по тем или иным причинам и в разных масштабах, поскольку любое государство имеет карательные органы в основном для этих целей. Поэтому к ним надо относиться без истерики, заклинаний и оскорблений.
+Во-вторых, что всякие явления и факты, имевшие место в прошлом, надо оценивать диалектически, т.е. с учётом места, времени и обстоятельств, когда они происходили, причём не изолированно, а в сравнении. По словам Черчилля «Сталин являлся крупной и сильной личностью, соответствующей тем бурным временам, в которых ему приходилось жить».
+В-третьих, репрессированные граждане, численность которых приведена выше, в той или иной степени нарушали законы, существовавшие тогда в СССР, хотя среди них были не адекватные и даже невинные. Сколько было тех, других и третьих, разобраться сегодня, по прошествии 80 лет, невозможно, поскольку в прошлом они осуждались по одним взглядам, правилам и законам, сегодня – другим. 
+В-четвёртых, если в прошлом власти совершали ошибки и несправедливость, то позапрошлые и сегодняшние совершали и совершают их не меньше. Понятие «государство», уже по определению, содержит в себе несправедливость (ограничение свобод личностей), т.е. идеальных государств никогда не было, нет и не может быть пока существует такое понятие.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+- Отрицательная оценка
+И.В. Бестужев-Лада считает репрессии периода сталинизма самым настоящим геноцидом, когда уничтожалась самая работоспособная, самая активная, самая талантливая, самая порядочная часть населения. А в остальных вгонялся страх, генетически передающийся из поколения в поколение, парализующий гражданские чувства, калечащий психику, мораль, интеллект.
+Так, А.С. Ципко отмечает, что террор сталинщины нельзя обосновать, так же, как нельзя обосновать предшествовавший ему террор во время Гражданской войны. Террор, по мнению А.С. Ципко, – это всегда безумие, срыв плотины, сдерживающей зверя в человеке. Мораль не может быть функцией революции. Напротив, революция оправдана только тогда, когда она продолжениеморали, служит защите ее интересов, интересов гуманизма, человечности.
+А.Н. Яковлев приходит к однозначному заключению, что «репрессий просто не могло не быть. И дело тут не только в Ленине и Сталине, хотя их личная ответственность за десятки миллионов невинно погубленных жизней очевидна. Суть, конечно, в системе большевизма, которую они создали. В системе, основанной на идеологии насилия».
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
